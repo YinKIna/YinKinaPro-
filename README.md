@@ -109,7 +109,6 @@
 
 ### 欢迎加入我们的社区！
 
-[![Discord](https://img.shields.io/badge/Discord-加入讨论-7289DA.svg)](https://discord.gg/your-server)
-[![QQ](https://img.shields.io/badge/QQ群-123456789-eb1923.svg)](https://qm.qq.com/your-group)
+[![QQ](https://img.shields.io/badge/QQ群-385979379-eb1923.svg)](https://qm.qq.com/your-group)
 
 </div> 
