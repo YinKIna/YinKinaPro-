@@ -107,8 +107,8 @@
 
 <div align="center">
 
-### 欢迎加入我们的社区！
+### 有什么问题在这联系！
 
-[![QQ](https://img.shields.io/badge/QQ群-385979379-eb1923.svg)](https://qm.qq.com/your-group)
+[![QQ](https://img.shields.io/badge/QQ号-385979379-eb1923.svg)](https://qm.qq.com/your-group)
 
 </div> 
