@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "org.example.mr_yinkina.yinkinapro.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+    ],
+    "client": [
+        "NoMiningDelayMixin",
+        "BlockMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+} 
